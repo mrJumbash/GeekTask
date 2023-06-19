@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+.venv/*
+venv/
+**__pycache__
+**/migrations
+.env
+db.sqlite3
+back_media
